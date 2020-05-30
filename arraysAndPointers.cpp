@@ -1,5 +1,3 @@
-// Challenge
-
 /* 
 Write a C++ function named apply_all that expects two arrays of integers and their sizes and
 dynamically allocates a new array of integers whos size is the product of the 2 array sizes
@@ -32,7 +30,7 @@ print(results, 15);
 Output
 -------------------
 Array 1: [ 1 2 3 4 5 ]
-Array 2: [ 10 20 30]
+Array 2: [ 10 20 30 ]
 Result: [ 10 20 30 40 50 20 40 60 80 100 30 60 90 120 150 ]
 */
 
